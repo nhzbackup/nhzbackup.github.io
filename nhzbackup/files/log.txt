@@ -1,0 +1,59 @@
+[10:25:51] Outdated graphic pack or unknown version in 'D:/WiiU Stuff/cemu_1.15.19/graphicPacks/BreathOfTheWild_LwzxNullCheck\rules.txt'
+[10:25:51] Initialized Wii U memory space. Base: 0x24808440000
+[10:25:51] ------- Init Cemu 1.15.20f -------
+[10:25:51] mlc01 path: D:\WiiU Stuff\cemu_1.15.19\mlc01\
+[10:25:51] Cemuhook version: 0.5.7.3
+[10:25:51] CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
+[10:25:51] RAM: 16304MB
+[10:25:51] Used CPU extensions: SSSE3, SSE4.1, AVX2, AES-NI
+[10:25:52] Loading Turbo.rpx
+[10:25:53] Creating OpenGL canvas
+[10:25:54] Loaded RPL module turbo (checksum 0xD09700CE)
+[10:25:54] Thread quantum set to 100000
+[10:25:54] ------- Loaded title -------
+[10:25:54] TitleId: 00050000-1010ed00
+[10:25:54] TitleVersion: v64
+[10:25:54] Update path: <mlc01>\usr\title\0005000E\1010ED00\
+[10:25:54] AOC path:    <mlc01>\usr\title\0005000C\1010ED00\ (not present)
+[10:25:54] Save path:   <mlc01>\usr\save\00050000\1010ED00\user\
+[10:25:54] shaderCache name: 85887bc1
+[10:25:54] gameprofile path: gameProfiles\000500001010ed00.ini
+[10:25:54] RPX hash: 85887bc1
+[10:25:54] Loaded RPL module mvplayer (checksum 0x1E5181E7)
+[10:25:54] Loaded module 'turbo' with checksum 0xd09700ce
+[10:25:54] Loaded module 'mvplayer' with checksum 0x1e5181e7
+[10:25:54] RPL link time: 93ms
+[10:25:54] HLE scan time: 32ms
+[10:25:54] ------- Active settings -------
+[10:25:54] CPU-Mode: Single-core recompiler (gameprofile)
+[10:25:54] Load shared libraries: true (gameprofile)
+[10:25:54] GPUBufferCacheAccuracy: low (gameprofile)
+[10:25:54] Use precompiled shaders: auto (gameprofile)
+[10:25:54] Full sync at GX2DrawDone: true
+[10:25:54] Console region: Auto
+[10:25:54] Console language: English
+[10:25:54] ------- Init OpenGL graphics backend -------
+[10:25:54] GL_VENDOR: NVIDIA Corporation
+[10:25:54] GL_RENDERER: GeForce GTX 1060 6GB/PCIe/SSE2
+[10:25:54] GL_VERSION: 4.6.0 NVIDIA 441.66
+[10:25:54] Using precompiled shaders: false
+[10:25:54] OpenGL extensions:
+[10:25:54] ARB_clip_control: available
+[10:25:54] ARB_get_program_binary: available
+[10:25:54] ARB_clear_texture: available
+[10:25:54] ARB_copy_image: available
+[10:25:54] NV_depth_buffer_float: available
+[10:25:54] ------- Init Audio backend -------
+[10:25:54] DirectSound: available
+[10:25:54] XAudio 2.8: available
+[10:25:54] ------- Run title -------
+[10:25:55] Shader cache loaded. Commited mem 19MB. Took 47ms
+[10:25:55] Recompiler initialized. CPU extensions: LZCNT MOVBE AVX 
+[10:25:55] Custom timer mode: QPC
+[10:25:55] IOSU_CRYPTO: No otp.bin found. Online mode cannot be used
+[10:25:55] IOSU_CRYPTO: No Seeprom.bin found. Online mode cannot be used
+[10:25:55] IOSU_ACT: using account default in first slot
+[10:25:55] Loaded RPL module mw_shamo (checksum 0x6778FB86)
+[10:25:55] Loaded module 'mw_shamo' with checksum 0x6778fb86
+[10:25:55] Loaded RPL module mw_shamo_sbc (checksum 0xA594053C)
+[10:25:55] Loaded module 'mw_shamo_sbc' with checksum 0xa594053c

@@ -1,0 +1,43 @@
+[DEBUG]: Sending cmd: 99 01 04 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000
+[DEBUG]: ** Card reset **
+[DEBUG]: Sending cmd: 9F 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAD180000
+[DEBUG]: Sending cmd: 90 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAF180000
+[DEBUG]: Read chipid = 7C2
+[DEBUG]: Sending cmd: 00 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAC180000
+[DEBUG]: Read header; state = { game_code = 0x4B584241, hdr_key1_romcnt = 0x081808F8, hdr_key2_romcnt = 0x00416657, key2_seed = 0x0 }
+[DEBUG]: Sending cmd: 68 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000
+[DEBUG]: Sending cmd: 99 01 04 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000
+[DEBUG]: ** Card reset **
+[DEBUG]: Sending cmd: 9F 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAD180000
+[DEBUG]: Sending cmd: 90 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAF180000
+[DEBUG]: Read chipid = 7C2
+[DEBUG]: Sending cmd: 00 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAC180000
+[DEBUG]: Read header; state = { game_code = 0x4B584241, hdr_key1_romcnt = 0x081808F8, hdr_key2_romcnt = 0x00416657, key2_seed = 0x0 }
+[DEBUG]: Sending cmd: 3C 11 A4 73 03 9D 46 00 
+[DEBUG]: ROMCNT = 0xA0010657
+[DEBUG]: Sending KEY1 cmd: 40000C99ACE39D46 (plaintext)
+[DEBUG]: Sending cmd: 07 F7 6F 3B 77 AF 94 9F 
+[DEBUG]: ROMCNT = 0xB8000910
+[DEBUG]: Seed KEY2: 64CD6760E8 5C879B9B05
+[DEBUG]: Seeding KEY2: x = 64 CD6760E8 y = 5C 879B9B05
+[DEBUG]: Sending KEY1 cmd: 1000011A47339D47 (plaintext)
+[DEBUG]: Sending cmd: F6 6C E1 57 F1 2C 1F FE 
+[DEBUG]: ROMCNT = 0xBF006910
+[DEBUG]: Sending KEY1 cmd: A000011A47339D48 (plaintext)
+[DEBUG]: Sending cmd: B3 22 61 5F 1A 1E 68 A5 
+[DEBUG]: ROMCNT = 0xB8006910
+[DEBUG]: Sending cmd: B8 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7416657
+[DEBUG]: Sending cmd: 66 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7586000
+[DEBUG]: Sending cmd: 99 01 04 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000

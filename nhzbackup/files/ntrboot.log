@@ -1,0 +1,21 @@
+[DEBUG]: Sending cmd: 99 01 04 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000
+[DEBUG]: Sending cmd: 68 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000
+[DEBUG]: Sending cmd: 99 01 04 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000
+[DEBUG]: ** Card reset **
+[DEBUG]: Sending cmd: 9F 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAD180000
+[DEBUG]: Sending cmd: 90 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAF180000
+[DEBUG]: Read chipid = 7C2
+[DEBUG]: Sending cmd: 00 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xAC180000
+[DEBUG]: Read header; state = { game_code = 0x48000018, hdr_key1_romcnt = 0x6D000040, hdr_key2_romcnt = 0x6D000050, key2_seed = 0xB5 }
+[DEBUG]: Sending cmd: 99 01 04 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000
+[DEBUG]: Sending cmd: 68 00 00 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000
+[DEBUG]: Sending cmd: 99 01 04 00 00 00 00 00 
+[DEBUG]: ROMCNT = 0xA7180000

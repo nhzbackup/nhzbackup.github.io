@@ -1,0 +1,26 @@
+Checking for new Luma3DS Updater releases...
+Downloading https://api.github.com/repos/KunoichiZ/lumaupdate/releases/latest...
+Download progress: 4813 / 4813
+Downloaded 4813 bytes
+JSON parsed successfully!
+Release found: v2.4
+Changelog found.
+Current updater is already at latest release.
+Trying detection of current payload version...
+10.0.1-c913de1
+Loaded existing payload in memory, searching for version number...
+Downloading https://api.github.com/repos/AuroraWright/Luma3DS/releases/latest...
+Download progress: 3397 / 3397
+Downloaded 3397 bytes
+JSON parsed successfully!
+Release found: 10.0.1
+Found version: Luma3DSv10.0.1.zip
+Release description found.
+Downloading http://astronautlevel2.github.io/Luma3DS/lastCommit...
+Download progress: 8 / 8
+Downloaded 8 bytes
+Restore payload on CTR-NAND also?
+ Press A + X to enable.
+ Press B to disable.
+CTR-NAND related operations enabled
+Something is critically wrong C8804478
