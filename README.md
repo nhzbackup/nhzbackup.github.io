@@ -39,4 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ---
 
 ## Nlhlehde | NHZ chat backup
-### NHZ chat backup completo: (nhzbackup.github.io/nhzbackup/messages.html)[https://nhzbackup.github.io/nhzbackup/messages.html]
+### NHZ chat backup completo: [nhzbackup.github.io/nhzbackup/messages.html](https://nhzbackup.github.io/nhzbackup/messages.html)
