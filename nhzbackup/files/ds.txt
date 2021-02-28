@@ -1,0 +1,213 @@
+8192	./18 Card Games (En,Fr,De,Es,Nl) [BY8PRM][NDS][EUR].nds
+8192	./1seg Jushin Adapter - DS Television [UNSJ01][NDS][JPN].nds
+8192	./1 vs 100 [b] [YJYPMR][NDS][EUR].nds
+16384	./42 All-Time Classics (En,Fr,De,Es,It) (Rev 1) [ATDP01][NDS][EUR].nds
+8192	./Affari Tuoi [YLAIMR][NDS][ITA].nds
+8192	./Aging Card NTR (Rev 0) [NTRJ01][NDS][World].nds
+8192	./Aging Card NTR (Rev 6) [AAAA01][NDS][World].nds
+8192	./Animal Crossing Wild World - Broadcast Version (Relay Station) [AM4P01][NDS][EUR].nds
+65536	./Animal Crossing Wild World (En,Fr,De,Es,It) [ADMP01][NDS][EUR].nds
+65536	./Animal Crossing - Wild World (En,Fr,De,Es,It) (Demo) [A62P01][NDS][EUR].nds
+32768	./Animal Crossing Wild World (Rev 1) [ADME01][NDS][USA].nds
+32768	./Another Code - Two Memories (En,Fr,De,Es,It) [ANOP01][NDS][EUR].nds
+32768	./A Ressha de Ikou DS [BARJN8][NDS][JPN].nds
+131072	./Auto Escuela - Aprueba Conmigo [BAQSLS][NDS][SPA].nds
+8192	./Bakushow [YK6P99][NDS][EUR].nds
+8192	./Brick 'em All DS [AZVPG9][NDS][EUR].nds
+16384	./Brico Utile [CBUFNK][NDS][FRA].nds
+8192	./Bridge Training [C7VP70][NDS][EUR].nds
+32768	./Bubble Bobble Revolution (Rev 1) [AB6E36][NDS][USA].nds
+32768	./Bust-A-Move DS [ABTPGT][NDS][EUR].nds
+65536	./Club Penguin - Elite Penguin Force (Rev 2) [CLPE4Q][NDS][USA].nds
+32768	./Crazy Frog Collectables - Art School (En,Fr,De,Es,It) [YCJPGW][NDS][EUR].nds
+8192	./Crazy Frog Racer (En,Fr,De,Es,It) [AFCPGW][NDS][EUR].nds
+16384	./Deal or No Deal [YDLE20][NDS][USA].nds
+65536	./Deep Labyrinth [ADLPGT][NDS][EUR].nds
+131072	./Doki Doki Majo Shinpan [A3BJH4][NDS][JPN].nds
+262144	./Doki Doki Majo Shinpan Duo [YUOJH4][NDS][JPN].nds
+16384	./Drivers Ed Portable [CCEE6U][NDS][EUR].nds
+16384	./Drivers Ed Portable [CCEP6V][NDS][EUR].nds
+16384	./Dr Kawashima's Brain Training - How Old Is Your Brain (En,Fr,De,Es,It,Nl) [ANDP01][NDS][EUR].nds
+8192	./Dr Kawashima's Brain Training - Sudoku Download 2 [Y2YP01][NDS][EUR].nds
+8192	./DS Download Service Europe - Meteos & Polarium (Wi-Fi Kiosk) [AJ2P01][NDS][EUR].nds
+32768	./DS Download Station Vol. 1 [A7AP01][NDS][EUR].nds
+16384	./DS Download Station Vol. 2 [A7BP01][NDS][EUR].nds
+65536	./Dungeon Maker [YLDP99][NDS][EUR].nds
+16384	./Electroplankton [ATIP01][NDS][EUR].nds
+8192	./Elf Bowling 1 and 2 (worst game ever) [AEBE7U][NDS][USA].nds
+13412	./Ermii Kart DS beta 1 (Mario Kart DS Hack).7z
+65536	./Fire Emblem - Shadow Dragon (En,Fr,De,Es,It) [YFEP01][NDS][EUR].nds
+131072	./Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Rev 1) [b] [VI2J01][NDS+DSi][JPN].nds
+8192	./Ford Racing 3 (En,Fr,De,Es,It) [AF3P7N][NDS][EUR].nds
+8192	./Franklin's Great Adventures [AFLEGY][NDS][USA].nds
+65536	./Fushigi no Dungeon - Fuurai no Shiren 4 - Kami no Hitomi to Akuma no Heso [B4FJEL][NDS][JPN].nds
+65536	./Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice [B5FJ91][NDS][JPN].nds
+32768	./Fushigi no Dungeon - Fuurai no Shiren DS 2 - Sabaku no Majou [YWFJ91][NDS][JPN].nds
+16384	./Fushigi no Dungeon - Fuurai no Shiren DS [AFUJ8P][NDS][JPN].nds
+262144	./Fushigi Yuugi DS [BF4JDQ][NDS][JPN].nds
+32768	./Game Center CX - Arino no Chousenjou [YCXJAF][NDS][JPN].nds
+8192	./Game & Watch Collection 2 (Club Nintendo) [CGWE01][NDS][USA].nds
+8192	./Game & Watch Collection 2 (Club Nintendo) [CGWJ01][NDS][JPN].nds
+8192	./Game & Watch Collection (Club Nintendo) [AWTE01][NDS][USA].nds
+8192	./Game & Watch Collection (Club Nintendo) [AWTJ01][NDS][JPN].nds
+32768	./Gardening Guide - How to Get Green Fingers [C3FPMR][NDS][EUR].nds
+65536	./Gauntlet DS (Beta) [YGNP4F][NDS][EUR].nds
+8192	./Giana Sisters DS [CYYPFR][NDS][EUR].nds
+32768	./Gouma Reifu Den Izuna [AHSJ8N][NDS][JPN].nds
+131072	./Grand Theft Auto - Chinatown Wars (En,Fr,De,Es,It) [YGXP54][NDS][EUR].nds
+65536	./Grey's Anatomy - The Video Game (En,Fr,De,Es,It) [CG5P41][NDS][EUR].nds
+262144	./Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 4 - Shinseiki Evangelion - Saigo no Shisha [BEVJG9][NDS][JPN].nds
+262144	./Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 5 - Shinseiki Evangelion - Tamashii no Kiseki [BEUJG9][NDS][JPN].nds
+131072	./Hotel Dusk - Room 215 (En,Fr,De,Es,It) [AWIP01][NDS][EUR].nds
+65536	./House M.D. - The Official Game (En,Fr,De) [BMHPMR][NDS][EUR].nds
+32768	./How to Pass Your Driving Test [CHSP41][NDS][EUR].nds
+65536	./How to Train Your Dragon (En,Fr) [BHDP52][NDS][EUR].nds
+16384	./Kanji no Wataridori [AKNJ8N][NDS][JPN].nds
+131072	./Kanji Sonomama Rakubiki Jiten [ARJJ01][NDS][JPN].nds
+65536	./Kanshuu Nihon Joushiki Ryoku Kentei Kyoukai - Imasara Hito ni wa Kikenai - Otona no Joushiki Ryoku Training DS (Rev 1) [AJYJ01][NDS][JPN].nds
+262144	./Kingdom Hearts - 358-2 Days (En,Fr,De,Es,It) [YKGPGD][NDS][EUR].nds
+65536	./Kirby - Power Paintbrush [ATKP01][NDS][EUR].nds
+8192	./Knigge - Spielend zum Guten Benehmen [BKGDRT][NDS][GER].nds
+16384	./Konami Arcade Collection [A5KJA4][NDS][JPN].nds
+8192	./KORG DS-10 Synthesizer [YJ9P01][NDS][EUR].nds
+32768	./Left Brain, Right Brain 2 (En,Fr,De) [CKBX5G][NDS][EUR].nds
+32768	./Left or Right - Ambidextrous Challenge (En,Fr,De,Es,It) [YAXPGT][NDS][EUR].nds
+131072	./Legend of Zelda, The - Phantom Hourglass (En,Fr,De,Es,It) [AZEP01][NDS][EUR].nds
+8192	./Legend of Zelda, The - Twilight Princess - Preview Trailer [AZDE01][NDS][USA].nds
+32768	./LifeSigns - Surgical Unit [AK2E6U][NDS][USA].nds
+65536	./Lovely Lisa (En,Fr,Es) [YLIPDA][NDS][EUR].nds
+524288	./Love Plus Plus [BOXJA4][NDS][JPN].nds
+65536	./L - The Prologue to Death Note - Rasen no Trap [YULJA4][NDS][JPN].nds
+32768	./Mario Kart DS [AMCJ01][NDS][JPN].nds
+32768	./Mario Kart DS [AMCP01][NDS][EUR].nds
+16384	./Mario Kart DS (Demo) [A39E01][NDS][USA].nds
+131072	./Mario & Luigi - Bowser's Inside Story (En,Fr,De,Es,It) [CLJP01][NDS][EUR].nds
+65536	./Mario & Luigi - Partners in Time (En,Fr,De,Es,It) [ARMP01][NDS][EUR].nds
+32768	./Mario Party DS (En,Fr,De,Es,It) (Rev 0) [A8TP01][NDS][EUR].nds
+32768	./Mario Party DS (En,Fr,De,Es,It) (Rev 1) [A8TP01][NDS][EUR].nds
+32768	./Metroid Prime Pinball (En,Fr,De,Es,It) [AP2P01][NDS][EUR].nds
+16384	./Mini Golf Resort [B08DKP][NDS][GER].nds
+65536	./Mini Yonku DS [C34J2N][NDS][JPN].nds
+65536	./More Brain Training from Dr Kawashima - How Old Is Your Brain (En,Fr,De,Es,It,Nl) [ANMP01][NDS][EUR].nds
+65536	./More TouchMaster (En,Fr,De,Es,It) [CCMP5D][NDS][EUR].nds
+32768	./Morinaga Takurou Kanshuu - Okane no Shin Joushiki DS Training [CNEJL2][NDS][JPN].nds
+65536	./My Japanese Coach [CJCP41][NDS][EUR].nds
+16384	./Nervous Brickdown (En,Fr,De,Es,It) [AVWP4F][NDS][EUR].nds
+32768	./New Super Mario Bros [A2DP01][NDS][EUR].nds
+32768	./New Super Mario Bros Deluxe 2012 (New Super Mario Bros Hack).nds
+131072	./Nine Hours, Nine Persons, Nine Doors (999) [BSKEXS][NDS][USA].nds
+512	./Nintendo DS firmware standalone (Hack).nds
+524288	./Nintendo DSi XL Demo Video vol.1 [DMEE01][DSi][USA].nds
+524288	./Nintendo DSi XL Demo Video vol.2 [DMDE01][DSi][USA].nds
+32768	./Nintendogs Bark Mode - Download Relay [AD4P01][NDS][EUR].nds
+65536	./Nintendogs Dalmatian and Friends [AD7P01][NDS][EUR].nds
+65536	./Nintendo Touch Golf - Birdie Challenge [AGFP01][NDS][EUR].nds
+8192	./Nintendo Zone Wireless Distribution Box DS Card [AAFA01][NDS][World].nds
+6116	./Opera Web Browser (Ez-Flash 3in1 hack) [UBRP01][NDS][EUR].nds
+32768	./Othello de Othello DS [YOWJK5][NDS][JPN].nds
+32768	./Pac'n Roll [APNPAF][NDS][EUR].nds
+16384	./Pac-Pix [APCPAF][NDS][EUR].nds
+32768	./Panel de Pon DS [A8NJ01][NDS][JPN].nds
+32768	./Pingu no Waku Waku Carnival! [CPGJCD][NDS][JPN].nds
+32768	./Pogo Island [AO3P69][NDS][EUR].nds
+32768	./Point Blank DS (En,Fr,De,Es) [AGLP70][NDS][EUR].nds
+8192	./Pokemon Arceus Distribution 2009 [Y6XE01][NDS][USA].nds
+8192	./Pokemon Arceus Distribution 2010 (En,Fr,De,Es,It) [Y6XE01][NDS][EUR].nds
+8192	./Pokemon Ash's PIKACHU! Distribution 2011 [Y8SE01][NDS][USA].nds
+262144	./Pokemon Black [b] [IRBK01][NDS+DSi][KOR].nds
+8192	./Pokemon Celebi Distribution 2011 [Y8CE01][NDS][USA].nds
+8192	./Pokemon Celebi Distribution 2011 [Y8CP01][NDS][EUR].nds
+8192	./Pokemon Darkrai Distribution 2008 [AAQE01][NDS][USA].nds
+8192	./Pokemon Darkrai Distribution 2011 (En,Fr,De,Es,It) (Wi-Fi Kiosk) [Y8QP01][NDS][EUR].nds
+32768	./Pokemon Dash (En,Fr,De,Es,It) [APDP01][NDS][EUR].nds
+8192	./Pokemon Deoxys Distribution 2008 [AARE01][NDS][USA].nds
+65536	./Pokemon Diamante (Rev 5) [ADAI01][NDS][ITA].nds
+131072	./Pokemon Diamond (Rev 0) [ADAJ01][NDS][JPN].nds
+65536	./Pokemon Diamond (Rev 5) [ADAJ01][NDS][JPN].nds
+65536	./Pokemon Diamond (Rev 6) [ADAJ01][NDS][JPN].nds
+8192	./Pokemon Liberty Pass Distribution [Y8KP01][NDS][EUR].nds
+8192	./Pokemon Manaphy Distribution 2007 [Y44E01][NDS][USA].nds
+8192	./Pokemon Meloetta Distribution 2013 (En,Fr,De,Es,It) [Y92HE01][NDS][USA+EUR].nds
+32768	./Pokemon Mystery Dungeon - Blue Rescue Team (En,Fr,De,Es,It) [APHP01][NDS][EUR].nds
+16384	./Pokemon Mystery Dungeon - Blue Rescue Team (En,Fr,De,Es,It) (Demo) [A57P01][NDS][EUR].nds
+131072	./Pokemon Mystery Dungeon - Explorers of Sky [C2SE01][NDS][USA].nds
+262144	./Pokemon Nero [b] [IRBI01][NDS+DSi][ITA].nds
+131072	./Pokemon Oro HeartGold [IPKS01][NDS][SPA].nds
+8192	./Pokemon Pichu-Jirachi Distribution 2010 [Y7YE01][NDS][USA].nds
+131072	./Pokemon Platino [3794] [CPUI01][NDS][ITA].nds
+131072	./Pokemon Platinum (Rev 1) [CPUE01][NDS][USA].nds
+8192	./Pokemon Raikou-Entei-Suicune-Celebi Distribution 2011 [Y8PE01][NDS][USA].nds
+8192	./Pokemon Secret Egg Distribution 2011 [Y82E01][NDS][USA].nds
+8192	./Pokemon Secret Key Distribution 2009 [Y58E01][NDS][USA].nds
+8192	./Pokemon Shaymin Distribution 2009 (En,Fr,De,Es,It) [Y5XP01][NDS][EUR].nds
+8192	./Pokemon Shaymin-Regigigas Distribution 2009 [Y60E01][NDS][USA].nds
+8192	./Pokemon Shiny Dialga-Palkia-Giratina Distribution 2013 (En,Fr,De,It) [Y90P01][NDS][EUR].nds
+8192	./Pokemon Shiny Dialga-Palkia-Giratina Distribution 2013 (En,Fr,De,It) [Y90Z01][NDS][EUR].nds
+131072	./Pokemon SoulSilver [IPGJ01][NDS][JPN].nds
+524288	./Pokemon White 2 (Rev 1) [b] [IRDJ01][NDS+DSi][JPN].nds
+262144	./Pokemon White [b] [IRAJ01][NDS+DSi][JPN].nds
+8192	./Pokemon Zoroark Distribution 2011 (En,Fr,De,Es,It) [Y85P01][NDS][EUR].nds
+8192	./Pokemon Zoroark Distribution 2011 (En,Fr) [Y85Z01][NDS][USA].nds
+404	./Pokesav Platinum v0.06 English.exe
+32768	./Professor Kageyama Maths Training [AIZP01][NDS][EUR].nds
+131072	./Ragnarok Online DS [YRBJK8][NDS][JPN].nds
+8192	./Rain Drops [YFWE6K][NDS][USA].nds
+284	./Relay Station [b] [A4EE01][NDS][USA].nds
+16384	./Rooms - Fushigi na Ugoku Heya [BRMJ18][NDS][EUR].nds
+32768	./RPG Tsukuru DS+ - Create the New World [b] [VEBJQC][NDS+DSi][EUR].nds
+32768	./RPG Tsukuru DS [V29JCP][NDS+DSi][JPN].nds
+32768	./Scribblenauts [BSLPWR][NDS][EUR].nds
+131072	./Shaberu! DS Oryouri Navi (Rev 0) [A4VJ01][NDS][JPN].nds
+131072	./Shaberu! DS Oryouri Navi (Rev 1) [A4VJ01][NDS][JPN].nds
+16384	./Shenyou Maliou DS [ASMC01][NDS][CHN].nds
+131072	./Shin Megami Tensei - Devil Survivor 2 [TDVEEB][NDS][USA].nds
+32768	./Shion no Ou - The Flowers of Hard Blood [YYNJH6][NDS][JPN].nds
+65536	./Sight Training - Enjoy Exercising and Relaxing Your Eyes (En,Fr,De,Es,It) [AG3P01][NDS][EUR].nds
+16384	./Simple DS Series Vol. 14 - The Jidousha Kyoushuujo DS [YZMJG9][NDS][JPN].nds
+65536	./Sims 2, The (En,Fr,De,Es,It) [ASJP69].nds
+65536	./Solatorobo - Red the Hunter [VCDVAF][NDS+DSi][EUR].nds
+65536	./Sonic Classic Collection [VSOV8P][NDS+DSi][EUR].nds
+65536	./Sonic Rush (Beta) (Rev 224) [ASCJ8P][NDS][JPN].nds
+65536	./Soul Eater - Medusa no Inbou [CSEJAF][NDS][JPN].nds
+65536	./Star Fox Command [ASFP01][NDS][EUR].nds
+16384	./Super Mario 64 DS [ASMP01][NDS][EUR].nds
+16384	./Super Mario 64 DS (Rev 0) [ASME01][NDS][USA].nds
+16384	./Super Mario 64 DS (Rev 1) [ASME01][NDS][USA].nds
+107324	./Super Mario Endless Earth - v1.02 (New Super Mario Bros Hack).nds
+65536	./Super Monkey Ball - Touch & Roll (En,Fr,De,Es,It) [AMOP8P][NDS][EUR].nds
+32768	./Super Princess Peach (En,Fr,De,Es,It) [ASPP01][NDS][EUR].nds
+65536	./Survival Kids - Chiisana Shima no Ookina Himitsu! [YL3JA4][NDS][JPN].nds
+65536	./Taiko no Tatsujin DS - Dororon! Yookai Daikessen!! [B3DJAF][NDS][JPN].nds
+32768	./Taiko no Tatsujin DS - Touch de Dokodon! [YKTJAF][NDS][JPN].nds
+65536	./Tamagotchi Connexion - Corner Shop (En,Fr,De,Es,It) [AG7PB2][NDS][EUR].nds
+16384	./Tetris DS (En,Fr,De,Es,It) [ATRP01][NDS][EUR].nds
+16384	./Tetris Party Deluxe (En,Fr,De,Es,It) [B4TPTR][NDS][EUR.nds
+32768	./Tetris Party Premium [B4TJ18][NDS][JPN].nds
+131072	./Tetsudou Kentei DS [b] [CTKJEL][NDS][JPN].nds
+65536	./Tetsudou Musume DS - Terminal Memory [CTMJDA][NDS][JPN].nds
+131072	./Tetsudou Seminar - JR Hen [YJRJC0][NDS][JPN].nds
+131072	./Tetsudou Seminar - Oote Shitetsu Hen [CTJJC0][NDS][JPN].nds
+262144	./Tokimeki Memorial Girls Side - 1st Love Plus [b] [C4GJA4][NDS][JPN].nds
+202684	./Tokimeki Memorial Girls Side - 1st Love Plus (Hack - English translation) [C4GJA4][NDS][JPN].nds
+65536	./To Love-Ru - Trouble - Waku Waku! Rinkan Gakkou Hen [b] [YRXJ99][NDS][JPN].nds
+65536	./Tomodachi Collection (Rev 1) [CCUJ01][NDS][JPN].nds
+65536	./Tomodachi Collection (Rev 1) (Hack - English translation 0.80) [CCUJ01][NDS][JPN].nds
+8192	./Top Trumps - Doctor Who [YWOP4F][NDS][EUR].nds
+65536	./Touch Dictionary (Rev 1) [ADWKFT][NDS][KOR].nds
+65536	./TouchMaster [AO8P5D][NDS][EUR].nds
+65536	./TV Anime Fairy Tail - Gekitou! Madoushi Kessen [BH6J18][NDS][JPN].nds
+1776	./TwlNandFiler (Developer) [4NFA01][DSiWare][World].nds
+65536	./Walk with Me! (En,Fr,De,Es,It) (Rev 1) [IMWP01][NDS][EUR].nds
+65536	./Wario - Master of Disguise [AWAE01][NDS][USA].nds
+131072	./WarioWare DIY - Do It Yourself (En,Fr,De,Es,It) [UORP01][NDS][EUR].nds
+32768	./WarioWare - Touched! (En,Fr,De,Es,It) [AZWP01][NDS][EUR].nds
+16384	./WarioWare - Touched! (Europe) (En,Fr,De,Es,It) (Demo) [A22P01][NDS][EUR].nds
+32768	./Warning - Code de la Route [YWNF70][NDS][FRA].nds
+32768	./Was Ist Was - Abenteuer Erde (En,De) [BWAPJQ][NDS][EUR].nds
+324	./WMTestTool (Developer) [NTRJ01][NDS][World].nds
+65536	./Yamanote-sen Meimei 100 Shuunen Kinen - Densha de Go! - Tokubetsu Hen - Fukkatsu! Shouwa no Yamanote-sen [B5DJGD][NDS][JPN].nds
+16384	./Yoshi Touch & Go (En,Fr,De,Es,It) [AYIP01][NDS][EUR].nds
+16384	./Yoshi Touch & Go (Kiosk Demo) [A27P01][NDS][EUR].nds
+131072	./Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus (En,Ja,Ko) [BYYKFT][NDS][KOR].nds
+32768	./Zuma's Revenge [TRZEPQ][NDS][USA].nds
+13297372	total

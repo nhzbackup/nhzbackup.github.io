@@ -1,0 +1,75 @@
+[   0.003055] Config <Info> core/settings.cpp:LogSettings:77: Citra Configuration:
+[   0.003074] Config <Info> core/settings.cpp:LogSetting:73: Core_UseCpuJit: true
+[   0.003075] Config <Info> core/settings.cpp:LogSetting:73: Renderer_UseGLES: false
+[   0.003077] Config <Info> core/settings.cpp:LogSetting:73: Renderer_UseHwRenderer: true
+[   0.003078] Config <Info> core/settings.cpp:LogSetting:73: Renderer_UseHwShader: true
+[   0.003079] Config <Info> core/settings.cpp:LogSetting:73: Renderer_SeparableShader: false
+[   0.003080] Config <Info> core/settings.cpp:LogSetting:73: Renderer_ShadersAccurateMul: false
+[   0.003081] Config <Info> core/settings.cpp:LogSetting:73: Renderer_UseShaderJit: true
+[   0.003085] Config <Info> core/settings.cpp:LogSetting:73: Renderer_UseResolutionFactor: 1
+[   0.003086] Config <Info> core/settings.cpp:LogSetting:73: Renderer_FrameLimit: 100
+[   0.003087] Config <Info> core/settings.cpp:LogSetting:73: Renderer_UseFrameLimitAlternate: false
+[   0.003088] Config <Info> core/settings.cpp:LogSetting:73: Renderer_FrameLimitAlternate: 200
+[   0.003089] Config <Info> core/settings.cpp:LogSetting:73: Renderer_PostProcessingShader: none (builtin)
+[   0.003090] Config <Info> core/settings.cpp:LogSetting:73: Renderer_FilterMode: true
+[   0.003092] Config <Info> core/settings.cpp:LogSetting:73: Renderer_TextureFilterName: none
+[   0.003093] Config <Info> core/settings.cpp:LogSetting:73: Stereoscopy_Render3d: 0
+[   0.003094] Config <Info> core/settings.cpp:LogSetting:73: Stereoscopy_Factor3d: 0
+[   0.003095] Config <Info> core/settings.cpp:LogSetting:73: Layout_LayoutOption: 0
+[   0.003096] Config <Info> core/settings.cpp:LogSetting:73: Layout_SwapScreen: false
+[   0.003097] Config <Info> core/settings.cpp:LogSetting:73: Layout_UprightScreen: false
+[   0.003098] Config <Info> core/settings.cpp:LogSetting:73: Utility_DumpTextures: false
+[   0.003099] Config <Info> core/settings.cpp:LogSetting:73: Utility_CustomTextures: false
+[   0.003100] Config <Info> core/settings.cpp:LogSetting:73: Utility_UseDiskShaderCache: true
+[   0.003101] Config <Info> core/settings.cpp:LogSetting:73: Audio_EnableDspLle: false
+[   0.003101] Config <Info> core/settings.cpp:LogSetting:73: Audio_EnableDspLleMultithread: false
+[   0.003102] Config <Info> core/settings.cpp:LogSetting:73: Audio_OutputEngine: auto
+[   0.003103] Config <Info> core/settings.cpp:LogSetting:73: Audio_EnableAudioStretching: true
+[   0.003104] Config <Info> core/settings.cpp:LogSetting:73: Audio_OutputDevice: auto
+[   0.003105] Config <Info> core/settings.cpp:LogSetting:73: Audio_InputDeviceType: 0
+[   0.003106] Config <Info> core/settings.cpp:LogSetting:73: Audio_InputDevice: Default
+[   0.003106] Config <Info> core/settings.cpp:LogSetting:73: Camera_OuterRightName: blank
+[   0.003107] Config <Info> core/settings.cpp:LogSetting:73: Camera_OuterRightConfig: 
+[   0.003108] Config <Info> core/settings.cpp:LogSetting:73: Camera_OuterRightFlip: 0
+[   0.003109] Config <Info> core/settings.cpp:LogSetting:73: Camera_InnerName: blank
+[   0.003110] Config <Info> core/settings.cpp:LogSetting:73: Camera_InnerConfig: 
+[   0.003111] Config <Info> core/settings.cpp:LogSetting:73: Camera_InnerFlip: 0
+[   0.003112] Config <Info> core/settings.cpp:LogSetting:73: Camera_OuterLeftName: blank
+[   0.003113] Config <Info> core/settings.cpp:LogSetting:73: Camera_OuterLeftConfig: 
+[   0.003114] Config <Info> core/settings.cpp:LogSetting:73: Camera_OuterLeftFlip: 0
+[   0.003115] Config <Info> core/settings.cpp:LogSetting:73: DataStorage_UseVirtualSd: true
+[   0.003116] Config <Info> core/settings.cpp:LogSetting:73: System_IsNew3ds: true
+[   0.003120] Config <Info> core/settings.cpp:LogSetting:73: System_RegionValue: -1
+[   0.003121] Config <Info> core/settings.cpp:LogSetting:73: Debugging_UseGdbstub: false
+[   0.003122] Config <Info> core/settings.cpp:LogSetting:73: Debugging_GdbstubPort: 24689
+[   0.201075] Input <Info> input_common/udp/client.cpp:StartCommunication:207: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.817232] Frontend <Info> citra_qt/main.cpp:GMainWindow:192: Citra Version: Canary 1806  | HEAD-e9c481c
+[   0.817248] Frontend <Info> citra_qt/main.cpp:GMainWindow:194: Host CPU:         Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+[   0.817299] Frontend <Info> citra_qt/main.cpp:GMainWindow:196: Host OS: Windows 10 (10.0)
+[   0.862851] Frontend <Info> citra_qt/main.cpp:CheckForUpdates:816: Update check started
+[   0.922682] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   0.952193] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   0.952200] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:256: Secure2 KeyX missing
+[   0.952204] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:347: Failed to decrypt
+[   0.952226] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   0.952228] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:256: Secure2 KeyX missing
+[   0.952245] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:347: Failed to decrypt
+[   0.957694] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   0.999820] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   0.999947] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:343: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.043340] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   1.043832] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:343: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.099707] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   1.099733] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:343: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.163204] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   1.163357] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:343: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.191114] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   1.191261] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:343: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.207475] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   1.207605] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:343: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.233412] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   1.233601] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:343: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.240327] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing
+[   1.240585] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:256: Secure2 KeyX missing
+[   1.240733] Service.FS <Warning> core/file_sys/ncch_container.cpp:Load:343: NCCH is marked as encrypted but with decrypted exheader. Force no crypto scheme.
+[   1.257499] Service.FS <Error> core/file_sys/ncch_container.cpp:Load:242: Secure1 KeyX missing

