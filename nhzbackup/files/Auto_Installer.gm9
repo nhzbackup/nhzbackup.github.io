@@ -1,0 +1,8 @@
+# Auto installer by Bestfast
+allow -a 0:/
+allow -a 1:/
+cp -w 1:/boot.firm 0:/
+cp 0:/MOD_3DS 1:/
+switchsd "Per continuare cambia la SD."
+mv -w 1:/MOD_3DS 0:/
+boot 0:/SafeB9SInstaller.firm

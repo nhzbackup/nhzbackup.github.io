@@ -1,0 +1,73 @@
+NCCH:
+Header:                 NCCH
+Signature:              AD2890F9A284DB413F7D4D5BD72D5B585CC8C82DE2BD09EA366A6532E7F03FC4
+                        C3953A89D1CAC6B47EC78C7363ED2FF798C2D0A8BC6D6A2DA278FBB4B1BA659C
+                        D6AA87FA9903650E237AF6CB2FD908FCCBC9BA7BFD59C58C3E4F298FBEF56166
+                        9FD37469A65DF546F8E1DC66D19CF0FC63838234575C18EF7C7033B6F2732C5A
+                        A635CF5CBCF93905AE3999EA1789C509FFDE6330D4C97BACA86E26A955E2D630
+                        39CED3D2F44B2C1389128A879CDA51BDFC21C1392D661D85C1B586C15071F2D3
+                        97CB0602547AB0E5DE34D93DB0A4CAA540A98B8B73E1B43FFD5E36763C4EBBA5
+                        DDEDC40FD9936853EADAB5B65167FA41050E8CDCE2CD70AEE90B1BE9D240C487
+Content size:           0x00203000
+Partition id:           00050000001b5100
+Maker code:             00
+Version:                0
+Title seed check:       00000000
+Program id:             00040000001b5100
+Logo hash:              0000000000000000000000000000000000000000000000000000000000000000
+Product code:           CTR-P-CTAP
+Exheader size:          00000000
+Exheader hash:          0000000000000000000000000000000000000000000000000000000000000000
+Flags:                  0400090100000000
+ > Mediaunit size:      0x200
+ > Crypto key:          None
+ > Form type:           Simple content
+ > Content type:        Manual
+ > Content platform:    CTR
+Plain region offset:    0x00000000
+Plain region size:      0x00000000
+Logo offset:            0x00000000
+Logo size:              0x00000000
+ExeFS offset:           0x00000000
+ExeFS size:             0x00000000
+ExeFS hash region size: 0x00000000
+RomFS offset:           0x00001000
+RomFS size:             0x00202000
+RomFS hash region size: 0x00000200
+ExeFS Hash:             0000000000000000000000000000000000000000000000000000000000000000
+RomFS Hash:             1AED428CFA4614C5641A73B30D406015CA844A8882AA850110DD97FF6EA12662
+Saving ExeFS...
+
+IVFC:
+Header:                 IVFC
+Id:                     00010000
+
+Level 0:
+ Data offset:           0x001fe000
+ Data size:             0x00001000
+ Hash offset:           0x00001060
+ Hash block size:       0x00001000
+
+Level 1:
+ Data offset:           0x001ff000
+ Data size:             0x00004000
+ Hash offset:           0x001fe000
+ Hash block size:       0x00001000
+
+Level 2:
+ Data offset:           0x00002000
+ Data size:             0x001fc000
+ Hash offset:           0x001ff000
+ Hash block size:       0x00001000
+
+RomFS:
+Header size:            0x00000028
+Section 0 offset:       0x00002028
+Section 0 size:         0x0000000C
+Section 1 offset:       0x00002034
+Section 1 size:         0x00000018
+Section 2 offset:       0x0000204C
+Section 2 size:         0x0000000C
+Section 3 offset:       0x00002058
+Section 3 size:         0x00000038
+Data offset:            0x00002090

@@ -1,0 +1,6 @@
+# Script by Bestfast
+ask "Do you want to backup your LocalFriendCodeSeed_B?"
+switchsd "Please switch SD."
+cp -h 1:/rw/sys/LocalFriendCodeSeed_B $[GM9OUT]/LocalFriendCodeSeed_B
+set ERRORMSG "Backup failed!"
+set SUCCESSMSG "Backup success!"
