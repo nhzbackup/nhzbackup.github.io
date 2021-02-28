@@ -1,0 +1,6 @@
+# Script by Bestfast
+ask "Do you want to restore your LocalFriendCodeSeed_B?"
+cp 1:/rw/sys/LocalFriendCodeSeed_B $[GM9OUT]/LocalFriendCodeSeed_B.bak
+cp $[GM9OUT]/LocalFriendCodeSeed_B 1:/rw/sys/LocalFriendCodeSeed_B 
+set ERRORMSG "Backup failed!"
+set SUCCESSMSG "Backup success!"

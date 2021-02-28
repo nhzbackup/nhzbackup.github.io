@@ -1,0 +1,81 @@
+NCCH:
+Header:                 NCCH
+Signature:              3B6BE42475A2EA685076BD1059FEDD6D02461353D9DEAA92B4387662150EF008
+                        9DBC877987D446CCC5E255C32267D8F2F73C57A1EBAA345817AAA0B590056FA3
+                        7AC4A278616F9ECA6B5D32EFBAB4F9E9527F4E408FC5D037501D3A85E6971AA3
+                        956FAF8AF259D2E08FF40B69B4E1FAC2588E7466878393A9F674288C7B0F84E1
+                        36FC4F98731EDA698D4DC231604433D2B0EF96B492EDFE2FD51FC0E8F47F6321
+                        66307FA043A41CEF0B737153CDC6407147B0DF86BAD4A935561102038CF43850
+                        DD0D7170AAED9320420995A1060F20200819018C0437B87DB75FD4AC14A3EF37
+                        1519F2D428DCC13572CCE573E4D5F25B7BA2EAF5F11911D421B2AC5FD9895990
+Content size:           0xdc25d000
+Partition id:           00040000001b5000
+Maker code:             00
+Version:                2
+Title seed check:       298cb32d
+Program id:             00040000001b5000
+Logo hash:              2A98C49D919E254E15DC213CAB47A800ED63B248DCD43119E8FB82D9E62AE51C
+Product code:           CTR-P-A2AA
+Exheader size:          00000400
+Exheader hash:          034D0DD554817FE4AC222499829CDC9D76440EC0C1807571926A5FA1DFB1397A
+Flags:                  2000030101000000
+ > Mediaunit size:      0x200
+ > Crypto key:          Secure (1) (KeyY seeded)
+ > Form type:           Executable content
+ > Content type:        Application
+ > Content platform:    CTR
+Plain region offset:    0x00002a00
+Plain region size:      0x00000400
+Logo offset:            0x00000a00
+Logo size:              0x00002000
+ExeFS offset:           0x00002e00
+ExeFS size:             0x0063a200
+ExeFS hash region size: 0x00000200
+RomFS offset:           0x0063d000
+RomFS size:             0xdbc20000
+RomFS hash region size: 0x00000800
+ExeFS Hash:             B032132858843CE754DB6BBF81ACA2998ED6F6780B8E610896EBBA24AE018329
+RomFS Hash:             24F6D569F5B26862009BC1EC003476388AC088F5E3C40B7FC872F9F231A88D44
+Error, exheader hash mismatch. Wrong key?
+[bestfastolino@salvatore PlaiCDN]$ ./ctrtool  0000000.dec 
+Warning, could not read secure key.
+
+NCCH:
+Header:                 NCCH
+Signature:              3B6BE42475A2EA685076BD1059FEDD6D02461353D9DEAA92B4387662150EF008
+                        9DBC877987D446CCC5E255C32267D8F2F73C57A1EBAA345817AAA0B590056FA3
+                        7AC4A278616F9ECA6B5D32EFBAB4F9E9527F4E408FC5D037501D3A85E6971AA3
+                        956FAF8AF259D2E08FF40B69B4E1FAC2588E7466878393A9F674288C7B0F84E1
+                        36FC4F98731EDA698D4DC231604433D2B0EF96B492EDFE2FD51FC0E8F47F6321
+                        66307FA043A41CEF0B737153CDC6407147B0DF86BAD4A935561102038CF43850
+                        DD0D7170AAED9320420995A1060F20200819018C0437B87DB75FD4AC14A3EF37
+                        1519F2D428DCC13572CCE573E4D5F25B7BA2EAF5F11911D421B2AC5FD9895990
+Content size:           0xdc25d000
+Partition id:           00040000001b5000
+Maker code:             00
+Version:                2
+Title seed check:       298cb32d
+Program id:             00040000001b5000
+Logo hash:              2A98C49D919E254E15DC213CAB47A800ED63B248DCD43119E8FB82D9E62AE51C
+Product code:           CTR-P-A2AA
+Exheader size:          00000400
+Exheader hash:          034D0DD554817FE4AC222499829CDC9D76440EC0C1807571926A5FA1DFB1397A
+Flags:                  2000030101000000
+ > Mediaunit size:      0x200
+ > Crypto key:          Secure (1) (KeyY seeded)
+ > Form type:           Executable content
+ > Content type:        Application
+ > Content platform:    CTR
+Plain region offset:    0x00002a00
+Plain region size:      0x00000400
+Logo offset:            0x00000a00
+Logo size:              0x00002000
+ExeFS offset:           0x00002e00
+ExeFS size:             0x0063a200
+ExeFS hash region size: 0x00000200
+RomFS offset:           0x0063d000
+RomFS size:             0xdbc20000
+RomFS hash region size: 0x00000800
+ExeFS Hash:             B032132858843CE754DB6BBF81ACA2998ED6F6780B8E610896EBBA24AE018329
+RomFS Hash:             24F6D569F5B26862009BC1EC003476388AC088F5E3C40B7FC872F9F231A88D44
+
